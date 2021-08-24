@@ -1,7 +1,8 @@
 ![alt text](https://github.com/DanielYatali/Terminal-Deal-or-NoDeal/blob/main/image.png)
 
 # Terminal-Deal-or-NoDeal
-Deal or no Deal within the command prompt
+Deal or no Deal within the command prompt.
+##### With an Additional Twist.
 
 #### What I Learnt:
 * `C++`
